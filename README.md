@@ -1,0 +1,2 @@
+# hackscratch
+hackathon idea 
